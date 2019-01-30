@@ -60,3 +60,7 @@ h6 {
 	right: 0;
 	left: 0;
 }
+/*INSTAGRAM FEED*/
+.slick-next:before, .slick-prev:before {
+  color: #000;
+}
