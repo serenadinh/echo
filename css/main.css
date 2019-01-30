@@ -3,7 +3,7 @@
 	margin: 0;
 }
 /* LANDING PAGE */
-body {
+.landing {
 	width: 100wh;
 	height: 100vh;
 	color: #fff;
